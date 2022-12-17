@@ -1,7 +1,6 @@
-Hello.
-I am potato man. 
+# Henlo.
+ ***I am a potato man.***
 
-<!---
-IgneousPotato/IgneousPotato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*sometimes* I do things.
+
+<sub>[webpage](https://igneouspotato.com/)</sub>
