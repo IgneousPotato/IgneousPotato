@@ -1,5 +1,4 @@
 # Henlo.
- ***I am a potato man.***
 
 sometimes I do things.
 
